@@ -1,0 +1,35 @@
+input, select{
+    height: 40px !important;
+    padding: 10px 20px !important;
+    border: 2px solid rgb(131, 130, 130) !important;
+    width: 100%;
+    border-radius: 2px;
+}
+
+.ant-form-item{
+    margin-bottom: 5px !important;
+}
+
+.button{
+    padding: 0px 25px;
+    border-radius: 2px;
+    height: 40px !important;
+}
+
+.primary-cotained-btn{
+    height: 40px;
+    background-color: var(--primary);
+    color: white;
+}
+.primary-outlined-btn{
+    background-color: white;
+    color: var(--primary);
+    padding: 10px 20px;
+    border: 2px solid var(--primary);
+}
+.success-outlined-btn{
+    background-color: white;
+    color: var(--success);
+    padding: 10px 20px;
+    border: 2px solid var(--success);
+}
